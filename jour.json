@@ -1,0 +1,18 @@
+[
+    {
+        "Produit": "carotte",
+        "Origine": "France",
+        "Calibre": "20-50",
+        "Culture": "conventionnel",
+        "Quantite": 400,
+        "Unite": "kg"
+    },
+    {
+        "Produit": "carotte",
+        "Origine": "France",
+        "Calibre": "+50",
+        "Culture": "conventionnel",
+        "Quantite": 150,
+        "Unite": "kg"
+    }
+]
